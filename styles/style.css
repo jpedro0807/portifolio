@@ -99,7 +99,7 @@ body {
     padding: 21.5px 0;
     text-decoration: none;
     color: var(--cor-secundaria);
-    font-family: var(--fonte-secundaria);
+    font-family: var(--font-secundaria);
 }
 
 .apresentacao__links__link:hover {
